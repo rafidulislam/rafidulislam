@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafidulislam
 - 👀 I’m interested in web development and machine learning
-- 🌱 I’m currently learning asp dot net core and machine learning
+- 🌱 I’m currently learning asp dot net core and machine learning(SVM Classification)
 
 
 <!---
