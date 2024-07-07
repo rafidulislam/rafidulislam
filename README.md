@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @rafidulislam
-- 👀 I’m interested in web development and machine learning
-- 🌱 I’m currently learning asp dot net core and machine learning(SVM Classification)
+Welcome to my GitHub profile!
+
+I'm an enthusiastic and dedicated ASP.NET Core Developer with a strong foundation in SQL Server. With a passion for building robust, scalable, and high-performance web applications, I specialize in creating solutions that meet user needs and business objectives.
+
+🔧 Technical Skills:
+Languages & Frameworks: C#, ASP.NET Core, Entity Framework
+Web Technologies: HTML, CSS, JavaScript, Bootstrap, RESTful APIs
+Database Management: SQL Server, T-SQL, Stored Procedures, Query Optimization
+Tools & Platforms: Visual Studio, Visual Studio Code, Git, Azure, Docker
 
 
 <!---
