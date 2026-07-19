@@ -1,71 +1,218 @@
-# Hi there 👋, I'm Rafidul Islam
+<div align="center">
 
-Welcome to my GitHub profile!
+# 👋 Hi, I'm Md. Rafidul Islam
 
-I'm a passionate Software Developer with experience in **Odoo ERP Development**, **Python**, and **ASP.NET Core**. I enjoy designing and developing scalable business applications, ERP customizations, REST APIs, and database-driven solutions that solve real-world problems.
+### 🚀 Odoo Developer | Python Developer | ERP Customization | Backend Developer
 
-I have experience building custom Odoo modules, customizing QWeb reports, developing inventory and accounting features, and integrating business workflows. I also have a solid background in ASP.NET Core and SQL Server for developing secure and high-performance web applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Odoo+Developer;Python+Backend+Developer;ERP+Customization+Specialist;ASP.NET+Core+Developer;Building+Business+Solutions"/>
 
-## 🚀 Technical Skills
+<p>
+<a href="https://github.com/rafidulislam">
+<img src="https://img.shields.io/github/followers/rafidulislam?style=for-the-badge&logo=github"/>
+</a>
 
-### 💻 Programming Languages
+<a href="https://www.linkedin.com/in/md-rafidul-islam-bhuiyan">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=rafidulislam&style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Developer specialized in Odoo ERP Development** with experience in building business applications and backend systems.
+
+Currently focusing on:
+
+* 🐍 Python Development
+* 🚀 Odoo 19 Custom Module Development
+* 🗄️ PostgreSQL Database Design
+* ⚡ OWL Framework & JavaScript
+* 📄 QWeb Report Customization
+* 🔐 Odoo Security & Access Control
+
+Before moving into Odoo, I worked with:
+
+* ASP.NET Core MVC
+* C#
+* Entity Framework Core
+* SQL Server
+* REST API Development
+
+I enjoy transforming business requirements into efficient and scalable software solutions.
+
+---
+
+# 🛠️ Technical Skills
+
+## ERP Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,postgres,javascript"/>
+</p>
+
+### Odoo
+
+```
+✔ Odoo 19
+✔ Custom Module Development
+✔ ORM
+✔ Models & Fields
+✔ XML Views
+✔ View Inheritance
+✔ QWeb Reports
+✔ Wizards
+✔ Security Rules
+✔ Access Rights
+✔ Server Actions
+✔ Scheduled Actions
+✔ OWL Components
+✔ PostgreSQL
+```
+
+---
+
+## Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet"/>
+</p>
+
+```
+✔ ASP.NET Core MVC
+✔ C#
+✔ Entity Framework Core
+✔ LINQ
+✔ REST API
+✔ Repository Pattern
+✔ SQL Server
+✔ Stored Procedures
+✔ Database Optimization
+```
+
+---
+
+## Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,postman"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🏢 Odoo ERP Customization
+
+Business modules developed with:
 
 * Python
-* C#
-* JavaScript
-* SQL
-
-### ⚙️ Frameworks & Technologies
-
-* Odoo 19
-* ASP.NET Core
-* Entity Framework Core
-* RESTful APIs
-
-### 🗄️ Databases
-
+* XML
 * PostgreSQL
+* Odoo ORM
+* QWeb Reports
+
+Features:
+
+* Custom Models
+* Automated Workflows
+* Business Logic
+* Reports
+* User Permissions
+
+### 📦 Inventory Management System
+
+Technologies:
+
+* ASP.NET Core MVC
+* C#
+* Entity Framework Core
 * SQL Server
-* T-SQL
-* Stored Procedures
-* Query Optimization
 
-### 🎨 Frontend
+Features:
 
-* HTML5
-* CSS3
-* Bootstrap
-* JavaScript
-* XML (Odoo Views & QWeb)
+* Product Management
+* Stock Tracking
+* Database Optimization
 
-### 🛠️ Tools & Platforms
+### 🛒 Business Application Development
 
-* Git & GitHub
-* Visual Studio Code
-* Visual Studio
-* PyCharm
-* Docker
-* Azure
-* Postman
+Experience building:
 
-## 📌 Areas of Interest
+* CRUD Applications
+* API Services
+* Database Driven Applications
+* Enterprise Solutions
 
-* Odoo ERP Development
-* ERP Customization
-* Backend Development
-* Business Process Automation
-* Database Design & Optimization
-* API Development
-* Report Development (QWeb & XLSX)
+---
 
-## 🌱 Currently Learning
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rafidulislam&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafidulislam&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rafidulislam&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafidulislam&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🎯 Currently Learning
 
 * Advanced Odoo Framework
-* Odoo Performance Optimization
+* OWL Frontend Development
+* ERP Architecture
 * PostgreSQL Optimization
-* Docker Deployment
-* CI/CD for Odoo Applications
+* Clean Code Practices
+* Backend System Design
 
-## 📫 Connect with Me
+---
 
-Feel free to explore my repositories, contribute to projects, or connect for collaboration on Odoo, Python, and Backend Development.
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://github.com/rafidulislam">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/md-rafidul-islam-bhuiyan">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Code • Learn • Build • Improve 🚀**
+
+</div>
