@@ -4,7 +4,7 @@
 
 ### 🚀 Odoo Developer | Python Developer | ERP Customization | Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Odoo+Developer;Python+Backend+Developer;ERP+Customization+Specialist;ASP.NET+Core+Developer;Building+Business+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Odoo+Developer;Python+Backend+Developer;ERP+Customization+Specialist;Former+ASP.NET+Core+Developer;Building+Business+Solutions"/>
 
 <p>
 <a href="https://github.com/rafidulislam">
